@@ -6,7 +6,7 @@
  * Time: 22:34
  */
 
-namespace Feng;
+namespace Bluelotus;
 
 class QiuniuAdapter
 {
