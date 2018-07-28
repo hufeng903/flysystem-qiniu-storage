@@ -1,0 +1,27 @@
+{
+    "name": "feng/flysystem-qiniu-storage",
+    "description": "implement flysystem interface to support qiniu storage",
+    "type": "library",
+    "require": {
+        "php": ">=5.6",
+        "league/flysystem": "^1.0",
+		"qiniu/php-sdk": "^7.2.0"
+    },
+    "require-dev": {
+        "phpspec/phpspec": "^2.0.0",
+        "phpunit/phpunit": "^5.7"
+    },
+	"autoload": {
+        "psr-4": {
+            "Feng\\Flysystem-qiniu-storage": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "feng.hu",
+            "email": "hu-feng@hotmail.com"
+        }
+    ],
+    "minimum-stability": "beta"
+}
