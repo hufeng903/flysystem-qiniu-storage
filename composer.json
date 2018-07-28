@@ -1,5 +1,5 @@
 {
-    "name": "Bluelotus/flysystem-qiniu-storage",
+    "name": "bluelotus/flysystem-qiniu-storage",
     "description": "implement flysystem interface to support qiniu storage",
     "type": "library",
     "require": {
