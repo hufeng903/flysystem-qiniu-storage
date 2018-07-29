@@ -51,6 +51,7 @@
       <command text="git add ." />
       <command text="git rm -r --cache /.idea/" />
       <command text="git rm -r --cache .idea/" />
+      <command text="git rm -r --cache .idea/*" />
     </commandsHistory>
   </component>
   <component name="Git.Settings">
@@ -164,7 +165,7 @@
       <updated>1532788391273</updated>
       <workItem from="1532788392604" duration="1080000" />
       <workItem from="1532789485916" duration="1447000" />
-      <workItem from="1532828605796" duration="666000" />
+      <workItem from="1532828605796" duration="805000" />
     </task>
     <task id="LOCAL-00001" summary="添加readme">
       <created>1532789200690</created>
@@ -243,11 +244,18 @@
       <option name="project" value="LOCAL" />
       <updated>1532829082356</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="修改忽略文件">
+      <created>1532829276815</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1532829276815</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3193000" />
+    <option name="totallyTimeSpent" value="3332000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
