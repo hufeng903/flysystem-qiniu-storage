@@ -8,7 +8,7 @@
 
 namespace Bluelotus;
 
-class QiuniuAdapter
+class QiniuAdapter
 {
 
 }
